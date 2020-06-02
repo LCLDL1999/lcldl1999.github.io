@@ -1,31 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Example Site</title>
-    <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on Example Site</description>
+    <title>Categories on LCLDL_Blog</title>
+    <link>https://lcldl1999.github.io/categories/</link>
+    <description>Recent content in Categories on LCLDL_Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lcldl1999.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>coding</title>
+      <link>https://lcldl1999.github.io/categories/coding/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lcldl1999.github.io/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>https://lcldl1999.github.io/categories/english/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lcldl1999.github.io/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>painting</title>
+      <link>https://lcldl1999.github.io/categories/painting/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lcldl1999.github.io/categories/painting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>syntax</title>
-      <link>https://example.com/categories/syntax/</link>
+      <link>https://lcldl1999.github.io/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/syntax/</guid>
+      <guid>https://lcldl1999.github.io/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://example.com/categories/themes/</link>
+      <link>https://lcldl1999.github.io/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/themes/</guid>
+      <guid>https://lcldl1999.github.io/categories/themes/</guid>
       <description></description>
     </item>
     
