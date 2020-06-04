@@ -3,12 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lcldl1999.github.io/tags/build-up/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lcldl1999.github.io/categories/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lcldl1999.github.io/categories/coding/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/tags/homebrew/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/tags/hugo/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/post/run/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/post/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/tags/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/tags/github/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/post/bulid_up/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lcldl1999.github.io/about/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,22 +68,7 @@
   </url>
   
   <url>
-    <loc>https://lcldl1999.github.io/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lcldl1999.github.io/categories/painting/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lcldl1999.github.io/post/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lcldl1999.github.io/tags/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -160,11 +195,6 @@
   <url>
     <loc>https://lcldl1999.github.io/gallery/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lcldl1999.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

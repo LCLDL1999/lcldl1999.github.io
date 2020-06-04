@@ -6,10 +6,60 @@
     <description>Recent content on LCLDL_Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lcldl1999.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Server</title>
+      <link>https://lcldl1999.github.io/post/run/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lcldl1999.github.io/post/run/</guid>
+      <description>這個Build-up系列紀錄了我建立這個網站的大致過程。
+在上一章，已經介紹了如何得到個人的範例網站。這一章介紹如何把它運行在個人電腦上。
+因為我使用的是Mac，所以這部分以Mac上運行為主。
+ 首先開啟終端機，然後在Homebrew中下複製下列command。
+ https://brew.sh/
+ /bin/bash -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;quot; 這樣就會開始運行下載程序，中途會要求輸入password，輸入後會開始下載。
+當看到Installation_Successful後就代表安裝成功。
+ 之後進入Hugo的網站，往下拉到這個地方。 在終端機輸入以下command。這樣就可以下載安裝Hugo
+$ brew install hugo 要檢查是否安裝成功，只要輸入下面command就可以確認了。
+hugo version 之後把上一章準備好的範例檔案，選擇後點擊右鍵按服務，點擊新增位於檔案夾位置的終端機視窗，輸入
+hugo server 可以看到上圖顯示了一個網頁的連結。把他複製後在Google上貼上就可以在電腦上運行範本網站。
+這樣就完成了網站的運行。之後只要把網頁改成為自己想要的樣子就可以了。
+ 下一章將介紹如何利用Github架構個人網站。</description>
+    </item>
+    
+    <item>
+      <title>Hugo Themes</title>
+      <link>https://lcldl1999.github.io/post/bulid_up/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lcldl1999.github.io/post/bulid_up/</guid>
+      <description>這個Build-up系列紀錄了我建立這個網站的大致過程。
+這是第一章，介紹如何在獲得自己的網站的範例。之後便可以通過修改範例來建造屬於自己的網站。
+首先，是上hugo網站尋找喜歡的主題。
+ https://gohugo.io/
+ 點進Themes頁面，選擇適合自己的主題。
+ 假設我選擇的是Hugo Future Imperfect Slim這個主題，點進去後點Download。
+ 之後會連結到Github的網站，進入後點Clone or download，再點Download ZIP就可以進行下載了。
+ 把檔案解壓縮後找到叫exampleSite的檔案暫存在桌面，之後在這個檔案中新增一個叫themes的檔案。
+之後在themes中把之前下載的檔案搬進去，把名字中的master刪除，就可以準備在電腦運行這個網站了。
+ 下一章將會介紹如何運行網站在自己的電腦上。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lcldl1999.github.io/about/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lcldl1999.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
     
     <item>
       <title>Testing_Coding</title>
@@ -119,17 +169,6 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://lcldl1999.github.io/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://lcldl1999.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lcldl1999.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
   </channel>
